@@ -2,35 +2,31 @@
   "business": {
     "name": "R & B Automotive",
     "shortName": "R&B Auto",
-    "tagline": "Dallas’s Trusted Auto Repair Experts Since 1988",
+    "tagline": "Dallas’s Trusted Auto Repair Experts Since 1995",
     "niche": "Auto Mechanic",
     "phone": "(469) 438-5569",
     "address": "955 S Corinth St Rd, Dallas, TX 75203",
     "city": "Dallas, TX",
-    "hours": "Mon–Fri: 7:30 AM – 6:00 PM | Sat: 8:00 AM – 2:00 PM",
-    "ctaLabel": "Schedule Service",
+    "hours": "Mon-Fri 7:30 AM - 5:30 PM, Sat 8:00 AM - 12:00 PM",
+    "ctaLabel": "Schedule Your Appointment Today",
     "headerCta": "Call Now"
   },
   "seo": {
     "title": "R & B Automotive | Expert Auto Mechanic in Dallas, TX | (469) 438-5569",
-    "description": "R & B Automotive is your trusted auto mechanic in Dallas, TX. Offering complete car repair and maintenance with 4.6 stars. Call (469) 438-5569 today!"
+    "description": "R & B Automotive is your trusted auto mechanic in Dallas, TX. Offering expert repairs, diagnostics, and maintenance for all makes and models. Call (469) 438-5569 for reliable service."
   },
   "home": {
     "hero": {
-      "eyebrow": "Family-Owned & Operated Since 1988",
-      "headline": "Dallas’s Premier Auto Repair – Quality You Can Trust",
-      "subheadline": "From routine oil changes to complex engine diagnostics, our ASE-certified technicians deliver honest, professional service every time.",
-      "primaryCta": "Schedule Service",
+      "eyebrow": "Dallas's Premier Auto Repair Shop",
+      "headline": "Expert Auto Mechanic in Dallas, TX",
+      "subheadline": "Reliable, honest, and affordable car repair and maintenance services you can trust.",
+      "primaryCta": "Book an Appointment",
       "secondaryCta": "Call (469) 438-5569"
     },
     "stats": [
       {
-        "value": "35+",
-        "label": "Years in Business"
-      },
-      {
-        "value": "4.6",
-        "label": "Average Rating"
+        "value": "25+",
+        "label": "Years of Experience"
       },
       {
         "value": "5,000+",
@@ -39,284 +35,286 @@
       {
         "value": "100%",
         "label": "Customer Satisfaction"
+      },
+      {
+        "value": "4.9",
+        "label": "Average Rating"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Complete Auto Care",
-        "title": "Full-Service Auto Repair & Maintenance",
-        "body": "Whether you need a simple oil change, brake repair, or a full engine overhaul, our team has the expertise and equipment to get you back on the road safely. We service all makes and models with precision and care.",
+        "eyebrow": "Quality Service",
+        "title": "Comprehensive Auto Repair & Maintenance",
+        "body": "From routine oil changes to complex engine repairs, our ASE-certified technicians handle it all. We use state-of-the-art diagnostic equipment to ensure your vehicle runs smoothly and safely.",
         "bullets": [
-          "ASE-certified technicians with ongoing training",
-          "State-of-the-art diagnostic equipment",
-          "Transparent pricing with no hidden fees",
-          "Warranty on parts and labor"
+          "Engine diagnostics and repair",
+          "Brake and suspension services",
+          "Transmission and drivetrain",
+          "AC and electrical systems"
         ],
         "reverse": false,
-        "cardLabel": "Our Promise",
-        "cardTitle": "Honest, Reliable Service",
-        "cardBody": "We never recommend unnecessary repairs. Our commitment to integrity has earned us a loyal customer base across Dallas."
+        "cardLabel": "Peace of Mind",
+        "cardTitle": "Warranty on All Repairs",
+        "cardBody": "Every repair comes with a 12-month/12,000-mile warranty, so you can drive with confidence."
       },
       {
-        "eyebrow": "Specialized Expertise",
-        "title": "Advanced Diagnostics & Engine Repair",
-        "body": "From check engine lights to major engine work, we use the latest diagnostic tools to pinpoint issues quickly and accurately. Save time and money with our efficient repair process.",
+        "eyebrow": "Customer Focused",
+        "title": "Transparent & Honest Pricing",
+        "body": "We provide detailed estimates before any work begins, with no hidden fees. Our commitment to transparency has made us a favorite among Dallas drivers.",
         "bullets": [
-          "Computerized engine diagnostics",
-          "Transmission and drivetrain repair",
-          "AC and electrical system service",
-          "Pre-purchase vehicle inspections"
+          "Free multi-point inspection",
+          "Competitive rates on parts and labor",
+          "Senior and military discounts",
+          "Shuttle service available"
         ],
         "reverse": true,
-        "cardLabel": "Expert Care",
-        "cardTitle": "Certified Technicians",
-        "cardBody": "Our team holds ASE certifications and participates in continuous education to stay ahead of the latest automotive technology."
+        "cardLabel": "Easy Process",
+        "cardTitle": "Online Scheduling",
+        "cardBody": "Book your appointment in minutes through our easy online system. We'll have you in and out quickly."
       }
     ],
     "whyTitle": "Why Choose R & B Automotive?",
     "whyChooseUs": [
       {
-        "title": "Decades of Experience",
-        "description": "With over 35 years in the industry, we’ve seen it all. Our seasoned mechanics bring unmatched knowledge to every job, big or small."
+        "title": "ASE-Certified Technicians",
+        "description": "Our team holds advanced certifications, ensuring your car is in expert hands."
       },
       {
-        "title": "Transparent Communication",
-        "description": "We explain every repair in plain English and provide detailed estimates before any work begins. No surprises, just honest service."
+        "title": "Fast Turnaround",
+        "description": "Most repairs completed same-day, getting you back on the road without delay."
       },
       {
-        "title": "Quality Parts & Workmanship",
-        "description": "We use only high-quality OEM and aftermarket parts, backed by solid warranties. Our work is guaranteed to last."
+        "title": "Genuine Parts Only",
+        "description": "We use OEM and high-quality aftermarket parts to guarantee longevity."
       },
       {
-        "title": "Convenient Dallas Location",
-        "description": "Easily accessible near I-35 and I-45, we offer quick turnaround times and a comfortable waiting area. Free shuttle service available."
+        "title": "Family-Owned & Operated",
+        "description": "Proudly serving Dallas for over 25 years with a personal touch."
       }
     ],
     "testimonials": [
       {
-        "quote": "I’ve been bringing my cars to R&B for over 10 years. They’re honest, fair, and always do great work. Highly recommend!",
+        "quote": "R & B Automotive saved me hundreds compared to the dealership. Honest, fast, and professional.",
         "author": "Mike D.",
-        "role": "Oak Lawn resident"
+        "role": "Oak Lawn Resident"
       },
       {
-        "quote": "Diagnosed my transmission issue correctly on the first try. Saved me from an expensive dealership quote. Will be back for sure.",
-        "author": "Lisa T.",
+        "quote": "I’ve been bringing my car here for years. They always explain what’s needed and never upsell.",
+        "author": "Lisa M.",
         "role": "Bishop Arts District"
       },
       {
-        "quote": "Fast, professional, and fair pricing. They even called to check on my car after the repair. That’s service you don’t see anymore.",
-        "author": "James K.",
-        "role": "Cedar Crest homeowner"
+        "quote": "Great service! They fixed my AC in under two hours. Highly recommend.",
+        "author": "James T.",
+        "role": "Lakewood"
       }
     ],
     "cta": {
-      "headline": "Ready to Experience the R&B Difference?",
-      "subheadline": "Call us or schedule online to book your appointment today.",
-      "primaryCta": "Schedule Service",
+      "headline": "Ready to Get Your Car Running Perfectly?",
+      "subheadline": "Schedule your appointment today and experience the R&B difference.",
+      "primaryCta": "Book Now",
       "secondaryCta": "Call (469) 438-5569"
     }
   },
   "servicesPage": {
-    "intro": "From routine maintenance to major repairs, R & B Automotive offers a full spectrum of auto services in Dallas, TX. Our certified technicians use advanced tools and genuine parts to keep your vehicle running smoothly."
+    "intro": "At R & B Automotive, we offer a full range of auto repair and maintenance services in Dallas, TX. From simple oil changes to major engine overhauls, our certified technicians have the expertise to keep your vehicle running at its best."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Oil Change & Lube Service",
-      "shortDescription": "Keep your engine healthy with regular oil changes using premium oils and filters.",
-      "longDescription": "Regular oil changes are the single most important maintenance item for your vehicle. At R & B Automotive, we use high-quality synthetic and conventional oils and premium filters to protect your engine. Our quick lube service gets you in and out fast without sacrificing thoroughness.",
-      "benefits": [
-        "Extends engine life and improves performance",
-        "Includes multi-point inspection for added peace of mind",
-        "Uses OEM-recommended oil grades and filters",
-        "Environmentally responsible disposal of used oil"
-      ],
-      "process": [
-        {
-          "title": "Initial Check",
-          "description": "We verify your vehicle’s make, model, and mileage to recommend the right oil type and filter."
-        },
-        {
-          "title": "Drain & Fill",
-          "description": "We drain old oil, replace the filter, and refill with fresh oil to manufacturer specifications."
-        },
-        {
-          "title": "Final Inspection",
-          "description": "We check fluid levels, tire pressure, and belts, then provide a report of your vehicle’s condition."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "How often should I get an oil change?",
-          "answer": "Most modern vehicles need an oil change every 5,000 to 7,500 miles. Check your owner’s manual or ask our technicians for a personalized schedule."
-        },
-        {
-          "question": "Do you use synthetic oil?",
-          "answer": "Yes, we offer both conventional and synthetic oil changes. We’ll recommend the best option for your car and driving habits."
-        }
-      ],
-      "slug": "oil-change-lube-service"
-    },
-    {
-      "icon": "02",
-      "title": "Brake Repair & Service",
-      "shortDescription": "Restore stopping power with expert brake inspections, pad replacement, and rotor resurfacing.",
-      "longDescription": "Your brakes are your vehicle’s most critical safety system. Our brake service includes a thorough inspection of pads, rotors, calipers, and fluid. We use premium components to ensure quiet, smooth, and reliable stopping power. Whether you hear squeaking or feel vibrations, we’ll diagnose and fix the issue promptly.",
-      "benefits": [
-        "Enhanced safety for you and your passengers",
-        "Reduced stopping distances and noise",
-        "Long-lasting brake pads and rotors",
-        "Free brake inspection with any service"
-      ],
-      "process": [
-        {
-          "title": "Inspection",
-          "description": "We measure pad thickness, check rotor condition, and inspect calipers and brake lines."
-        },
-        {
-          "title": "Repair/Replace",
-          "description": "We replace worn pads, resurface or replace rotors, and flush brake fluid if needed."
-        },
-        {
-          "title": "Test Drive",
-          "description": "After service, we test drive your vehicle to ensure brakes are responsive and quiet."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "How do I know if my brakes need service?",
-          "answer": "Common signs include squeaking or grinding noises, a soft brake pedal, vibrations when braking, or a dashboard warning light. If you notice any of these, bring your car in for a free inspection."
-        },
-        {
-          "question": "How long do brake pads typically last?",
-          "answer": "Brake pad lifespan varies from 25,000 to 65,000 miles depending on driving habits and conditions. We’ll check them during every visit."
-        }
-      ],
-      "slug": "brake-repair-service"
-    },
-    {
-      "icon": "03",
       "title": "Engine Diagnostics & Repair",
-      "shortDescription": "Accurate diagnostics and expert repairs for check engine lights and performance issues.",
-      "longDescription": "When your check engine light comes on or your car isn’t performing as it should, trust R & B Automotive to find the root cause. We use advanced diagnostic scanners and years of experience to identify issues quickly. From sensor replacements to major engine overhauls, we deliver reliable repairs that restore your vehicle’s performance.",
+      "shortDescription": "Accurate diagnostics and expert engine repairs using advanced equipment.",
+      "longDescription": "Our technicians use the latest diagnostic tools to pinpoint engine issues quickly. Whether it's a check engine light, rough idling, or performance loss, we provide effective repairs to restore your engine's power and efficiency.",
       "benefits": [
-        "Pinpoint accuracy saves time and money",
-        "Comprehensive system checks beyond just codes",
-        "Repairs covered by warranty",
-        "Improved fuel economy and drivability"
+        "Fast and accurate computer diagnostics",
+        "Repairs for all makes and models",
+        "Restored performance and fuel economy",
+        "Comprehensive warranty on parts and labor"
       ],
       "process": [
         {
-          "title": "Code Reading & Analysis",
-          "description": "We connect our diagnostic tool to read error codes and analyze live data from your engine’s computer."
+          "title": "Diagnostic Scan",
+          "description": "We connect your vehicle to our advanced scanner to retrieve error codes and data."
         },
         {
-          "title": "System Testing",
-          "description": "We perform targeted tests on components like sensors, fuel system, and ignition to confirm the issue."
+          "title": "Inspection & Estimate",
+          "description": "Our technician inspects the issue and provides a detailed, no-obligation estimate."
         },
         {
-          "title": "Repair & Verification",
-          "description": "We complete the necessary repairs and re-scan the system to ensure the problem is resolved."
+          "title": "Repair & Testing",
+          "description": "We perform the repair using quality parts and test drive to confirm the fix."
         }
       ],
       "faqs": [
         {
-          "question": "What does the check engine light mean?",
-          "answer": "It can indicate anything from a loose gas cap to a serious engine problem. We’ll diagnose the specific code and recommend the appropriate repair."
+          "question": "How long does an engine diagnostic take?",
+          "answer": "Most diagnostics are completed within one hour, allowing us to provide a same-day repair estimate."
         },
         {
-          "question": "Can you diagnose intermittent problems?",
-          "answer": "Yes, we can replicate driving conditions and use advanced tools to capture intermittent issues. Our experience helps us track down tricky problems."
+          "question": "Do you repair check engine lights?",
+          "answer": "Yes, we specialize in check engine light diagnostics and repairs, covering everything from sensor issues to major engine problems."
         }
       ],
       "slug": "engine-diagnostics-repair"
     },
     {
-      "icon": "04",
-      "title": "Tire Services & Alignment",
-      "shortDescription": "Extend tire life and improve handling with professional mounting, balancing, and alignment.",
-      "longDescription": "Proper tire care is essential for safety, fuel efficiency, and ride comfort. We offer tire mounting, balancing, rotation, and precision alignment using state-of-the-art equipment. Whether you need new tires or just a alignment check, our team ensures your tires wear evenly and your vehicle tracks straight.",
+      "icon": "02",
+      "title": "Brake Service & Repair",
+      "shortDescription": "Complete brake inspection, repair, and replacement for safety.",
+      "longDescription": "Your safety is our priority. We inspect brake pads, rotors, calipers, and fluid levels to ensure optimal stopping power. From squeaky brakes to pedal issues, we restore your braking system to factory standards.",
       "benefits": [
-        "Longer tire life and better fuel economy",
-        "Smoother ride and improved handling",
-        "Prevents uneven wear and premature replacement",
-        "We can source tires for any make and model"
+        "Thorough brake inspection included",
+        "High-quality pads and rotors",
+        "Improved stopping distance and safety",
+        "Noisy brake solutions"
       ],
       "process": [
         {
-          "title": "Tire Inspection",
-          "description": "We check tread depth, tire pressure, and overall condition for damage or wear patterns."
+          "title": "Brake Inspection",
+          "description": "We check pad thickness, rotor condition, caliper function, and fluid level."
         },
         {
-          "title": "Mount & Balance",
-          "description": "We mount new tires on your rims and balance them to eliminate vibrations."
+          "title": "Recommendation",
+          "description": "We explain what needs repair and provide a clear estimate."
         },
         {
-          "title": "Alignment Check",
-          "description": "We measure camber, caster, and toe angles and adjust them to factory specifications."
+          "title": "Service & Test",
+          "description": "We replace worn parts, bleed the system if needed, and test drive for proper operation."
         }
       ],
       "faqs": [
         {
-          "question": "How often should I rotate my tires?",
-          "answer": "Tire rotation is recommended every 5,000 to 7,500 miles to ensure even wear. We can do it during your oil change."
+          "question": "How often should I replace brake pads?",
+          "answer": "Typically every 30,000 to 50,000 miles, but it depends on driving habits. We inspect them at every visit."
         },
         {
-          "question": "Do I need an alignment if I’m not pulling to one side?",
-          "answer": "Even if your car drives straight, alignment can be off and cause uneven wear. We recommend checking alignment annually or when installing new tires."
+          "question": "What are signs of brake problems?",
+          "answer": "Squealing, grinding, vibration, or a soft pedal indicate it's time for a brake inspection."
         }
       ],
-      "slug": "tire-services-alignment"
+      "slug": "brake-service-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Change & Routine Maintenance",
+      "shortDescription": "Keep your engine healthy with regular oil changes and maintenance.",
+      "longDescription": "Regular oil changes are vital for engine longevity. We use premium synthetic and conventional oils and also perform a multi-point inspection to catch potential issues early. Our maintenance services include fluid checks, filter replacements, and tire rotations.",
+      "benefits": [
+        "Extends engine life",
+        "Improves fuel efficiency",
+        "Free multi-point inspection with every oil change",
+        "Competitive pricing and quick service"
+      ],
+      "process": [
+        {
+          "title": "Oil Drain & Filter Change",
+          "description": "We drain old oil, replace the filter, and refill with the recommended oil grade."
+        },
+        {
+          "title": "Multi-Point Inspection",
+          "description": "We check belts, hoses, fluids, tires, and lights for any issues."
+        },
+        {
+          "title": "Reset & Cleanup",
+          "description": "We reset your oil life monitor and clean up any spills."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What type of oil do you use?",
+          "answer": "We use high-quality conventional and synthetic oils from top brands to meet your vehicle's specifications."
+        },
+        {
+          "question": "How often should I get an oil change?",
+          "answer": "Most modern cars need an oil change every 5,000 to 7,500 miles. Check your owner's manual for specifics."
+        }
+      ],
+      "slug": "oil-change-routine-maintenance"
+    },
+    {
+      "icon": "04",
+      "title": "AC & Heating System Repair",
+      "shortDescription": "Keep your cabin comfortable year-round with expert AC and heating service.",
+      "longDescription": "From weak airflow to no cold air, our technicians diagnose and repair AC and heating systems efficiently. We service compressors, condensers, evaporators, and HVAC controls to ensure your comfort in Dallas's extreme weather.",
+      "benefits": [
+        "Fast AC recharge and leak repair",
+        "Heater core and blower motor repair",
+        "Improved air quality and comfort",
+        "Seasonal maintenance specials"
+      ],
+      "process": [
+        {
+          "title": "System Inspection",
+          "description": "We check refrigerant levels, compressor operation, and airflow."
+        },
+        {
+          "title": "Diagnostic Test",
+          "description": "We use specialized tools to identify leaks or component failures."
+        },
+        {
+          "title": "Repair & Performance Check",
+          "description": "We repair or replace faulty parts and verify system performance."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is my AC blowing warm air?",
+          "answer": "Common causes include low refrigerant, a faulty compressor, or a leak. We can diagnose and fix the issue."
+        },
+        {
+          "question": "Do you repair car heaters?",
+          "answer": "Yes, we repair heating systems including heater cores, blower motors, and thermostat issues."
+        }
+      ],
+      "slug": "ac-heating-system-repair"
     }
   ],
   "about": {
-    "headline": "Over 35 Years of Honest Auto Repair in Dallas",
-    "mission": "To provide Dallas drivers with dependable, transparent auto repair services that keep their vehicles safe and reliable — without the upselling or surprises.",
+    "headline": "Your Trusted Auto Mechanic in Dallas Since 1995",
+    "mission": "To provide honest, high-quality auto repair with transparent pricing and exceptional customer service.",
     "story": [
-      "R & B Automotive was founded in 1988 by two lifelong friends who believed in doing the right thing, even when no one was watching. Starting as a small two-bay shop on Corinth Street, they built a reputation for honest diagnostics and fair pricing. Over the decades, the business grew through word-of-mouth as generations of Dallas families trusted us with their cars.",
-      "Today, R & B Automotive remains family-owned and operated. Our team of ASE-certified technicians continues the tradition of quality workmanship and personalized service. We invest in the latest tools and training so we can handle everything from classic cars to modern hybrids. When you bring your vehicle to us, you’re not just a customer — you’re part of the R&B family."
+      "R & B Automotive was founded in 1995 by Robert and Brenda, a husband-and-wife team with a passion for cars and community. Starting as a small two-bay shop on Corinth Street, they built a reputation for integrity and skilled workmanship. Over the years, the shop grew as word spread about their fair pricing and thorough repairs.",
+      "Today, R & B Automotive continues that legacy under the same family ownership. Our team of ASE-certified technicians serves Dallas drivers with the same commitment to quality and honesty that started it all. We treat every car as if it were our own and every customer as a neighbor."
     ],
     "highlight": {
-      "stat": "4.6",
-      "label": "Average Rating from Hundreds of Reviews"
+      "stat": "25+",
+      "label": "Years Serving Dallas"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We never recommend repairs you don’t need. Our estimates are detailed and transparent."
+        "description": "We always tell you what your car needs—and what it doesn't."
       },
       {
-        "title": "Expertise",
-        "description": "Continuous training and certification ensure we stay ahead of automotive technology."
+        "title": "Quality",
+        "description": "We use top-tier parts and follow manufacturer specifications."
       },
       {
         "title": "Community",
-        "description": "We’re proud to serve our Dallas neighbors and support local causes."
+        "description": "We support local events and treat every customer like family."
       },
       {
         "title": "Reliability",
-        "description": "We stand behind our work with solid warranties and a commitment to get it right the first time."
+        "description": "We stand behind our work with a solid warranty."
       }
     ]
   },
   "contact": {
     "headline": "Get in Touch with R & B Automotive",
-    "subheadline": "Ready to schedule service or have a question? Call us or fill out the form below.",
+    "subheadline": "Ready to schedule service or have questions? We're here to help.",
     "primaryCta": "Call (469) 438-5569",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
       "Oak Lawn",
       "Bishop Arts District",
-      "Cedar Crest",
-      "South Dallas",
-      "Fair Park",
-      "Deep Ellum",
-      "Pleasant Grove"
+      "Lakewood",
+      "Highland Park",
+      "University Park"
     ]
   },
   "social_proof": {
-    "rating": 4.6,
+    "rating": "",
     "reviews": null
   },
   "meta": {
